@@ -9,9 +9,9 @@
 - Dinner: pizza
 
 #Wednesday
-- Breakfast:
-- Lunch:
-- Dinner
+- Breakfast: omlette
+- Lunch: sandwich
+- Dinner: left overs
 
 #Thursday
 - Breakfast:
