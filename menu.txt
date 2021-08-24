@@ -19,6 +19,6 @@
 - Dinner: sushi
 
 #Friday
-- Breakfast:
-- Lunch:
-- Dinner
+- Breakfast: yogurt & granola
+- Lunch: salad
+- Dinner: wine
