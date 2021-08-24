@@ -8,6 +8,8 @@ milk
 WINE
 beer
 chips
+peanut butter
+olive oil
 
 # Shaws
 dill
