@@ -6,6 +6,8 @@ cheese
 eggs
 milk
 WINE
+beer
+chips
 
 # Shaws
 dill
