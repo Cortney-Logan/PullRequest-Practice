@@ -4,9 +4,9 @@
 - Dinner: hamburgers
 
 #Tuesday
-- Breakfast:
-- Lunch:
-- Dinner
+- Breakfast: smoothie
+- Lunch: salad
+- Dinner: pizza
 
 #Wednesday
 - Breakfast:
