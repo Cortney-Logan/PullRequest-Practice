@@ -14,9 +14,9 @@
 - Dinner: left overs
 
 #Thursday
-- Breakfast:
-- Lunch:
-- Dinner
+- Breakfast: oatmeal
+- Lunch: salad
+- Dinner: sushi
 
 #Friday
 - Breakfast:
