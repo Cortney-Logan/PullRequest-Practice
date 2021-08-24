@@ -12,3 +12,6 @@ dill
 parsley
 pasta
 windex
+blueberries
+allergy meds
+hand sanitizer
