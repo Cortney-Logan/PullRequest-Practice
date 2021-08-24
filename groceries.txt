@@ -1,0 +1,14 @@
+# Trader Joes
+bananas
+grapes
+strawberries
+cheese
+eggs
+milk
+WINE
+
+# Shaws
+dill
+parsley
+pasta
+windex
