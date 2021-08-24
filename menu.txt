@@ -1,7 +1,7 @@
 # Monday
-- Breakfast:
-- Lunch:
-- Dinner
+- Breakfast: eggs
+- Lunch: sandwich
+- Dinner: hamburgers
 
 #Tuesday
 - Breakfast:
